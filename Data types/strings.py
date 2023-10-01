@@ -10,7 +10,8 @@ print(course3, "\n")
 
 
 #printing multiple line string
-email='''Hello Team
+email='''
+Hello Team
 
 Your issue was resolved.
 Please check to confirm
@@ -20,3 +21,10 @@ Tech support Team
 
 '''
 print(email)
+
+
+#String Indexing
+course="This is python"
+new_course=course
+print(course[1:-1])
+print(new_course)
