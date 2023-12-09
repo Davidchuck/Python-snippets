@@ -1,6 +1,6 @@
 #house price
 value=1000000
-good_credit_score=False
+good_credit_score=True
 
 if good_credit_score:
     down_payment=0.1*value
