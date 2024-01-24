@@ -11,7 +11,7 @@ matrix=[
 print(matrix[0][3], matrix[1][2])
 
 #matrix[[0][0]]=20
-print(matrix[0]) 
+print(matrix[0]) ll
 
 #print all items in the list
 for i in matrix:
